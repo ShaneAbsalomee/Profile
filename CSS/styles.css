@@ -2,6 +2,7 @@
             h1{
                 font-style: Arial;
                 font-size: 40px;
+                color: white;
             }
             img{
                 width: 300px;
@@ -11,19 +12,78 @@
                 font-weight: bold;
 
             }
-            .edu{
-                font-family: arial;
-                font-style: italic;
-                font-weight: bold;
-                
-            }
+           
             .description{
                 font-family: Arial;
+                color: white;
+                text-align: center;
             }
             p,h1,h2,h3,ul,ol,li{
                 font-family: arial;
             }
             .Highlight{
-                width: 450px;
+                
                 align-self: center;
+                color: white;
+                text-align: center;
+             
             }
+            hr{
+              
+                
+                width: 80%;
+                border-style: none;
+                border-top-style: dotted;
+                border-color: black;
+                border-width: 4px;
+            }
+            .experience{
+                font-family: Arial;
+                font-weight: bold;
+                color: white;
+                text-align: center;
+                
+            }
+            .education,.skill,h4, .experience,.port,.courses {
+               text-align: center;
+               color: white;
+            }
+            h1,h3,h4,.skills{
+                color: white;
+                text-align: center;
+            }
+            .courses{
+                font-family: arial;
+                font-style: italic;
+                font-weight: bold;
+                color: white;
+                
+            }
+            .Skills{
+                color: white;
+                text-align: center;
+                font-weight: bold;
+                
+            }
+            body{
+                font-family: Arial;
+                background-color: rgb(58, 62, 63);
+            }
+            h4{
+                color: greenyellow;
+            }
+            
+            img{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+  
+            }
+            a{
+                color: rgb(201, 139, 58);
+            }
+            .position{
+                color: rgb(252, 146, 8);
+            }
+            
